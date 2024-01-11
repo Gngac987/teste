@@ -7,10 +7,6 @@ h1{color: gold; background-color: black;margin: 10px;border: 10px;
 padding-top: 10px;padding-right: 10px;padding-left: 10px;padding-bottom: 10px;}
 
 section{
-    margin: 10px;
-    padding: 10px;
+    background-color: black ; height: 48px;width: 80px; margin: 10px; padding: 10px; 
 }
-ol{
-    background-color: aqua;
-}
-img{height: 30px;width: 30px;padding-top: 400px;padding-left: 10px;padding-bottom: 10px;}
+img{margin: 100px;padding: auto;}
