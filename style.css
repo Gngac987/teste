@@ -6,7 +6,10 @@ section{
     padding: 10px;
 }
 h1{
-    background-color: darkorange;height: 50px;width: 100%;
+    font-size: ;
+    color: darkorange;
+    
+    background-color: black;  height: 100px; width: 300px;
 }
 ol{
     background-color: bisque;
