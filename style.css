@@ -5,13 +5,7 @@ section{
     margin: 10px;
     padding: 10px;
 }
-h1{
-
-    color: darkorange;
-    
-    background-color: black; margin: 50px; height: 100px; width: 400px;
-}
+img{height: 200px;width: 400px;margin: 50px;padding: 30px;}
 ol{
     background-color: aqua;
 }
-img{height: 200px;width: 400px;margin: 50px;padding: 30px;}
